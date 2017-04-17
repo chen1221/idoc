@@ -1,0 +1,27 @@
+{
+    "name": "idoc",
+    "version": "1.0.0",
+    "description": "我的文档",
+    "keywords": [
+        "笔记"
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "chen1221 <1126888376@qq.com>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "default",
+        "md": [
+            "首页.md",
+            {
+                "基础知识": [
+                    "react.md"
+                ]
+            }
+
+        ]
+    }
+}
